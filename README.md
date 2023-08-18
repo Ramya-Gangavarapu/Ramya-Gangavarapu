@@ -1,4 +1,4 @@
-![logo](https://github.com/Ramya-Gangavarapu/Ramya-Gangavarapu/blob/main/banner1.png)
+![logo](https://github.com/Ramya-Gangavarapu/Ramya-Gangavarapu/blob/main/IMG1.webp)
 <h1 align="center">Hi 👋, I'm Gangavarapu Ramya</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://j4i2w7h7.stackpathcdn.com/wp-content/uploads/2017/04/Neon-Waseland-Game-Download.gif">
