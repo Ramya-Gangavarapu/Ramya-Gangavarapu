@@ -16,10 +16,16 @@
 ## - ⚡ Did you know? **I possess the magical ability to make elements dance, fly, and even disappear with just a few lines of CSS wizardry✨**
 
 ## <h3 align="left">Feel free to connect with me through the constellations of social platforms. Let's share ideas, solve puzzles, and learn from each other's code journeys</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/gangavarapu-ramya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gangavarapu-ramya/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/www.hackerrank.com/ramya_g2155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="www.hackerrank.com/ramya_g2155" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leetcode.com/g_ramya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/g_ramya/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/gangavarapu-ramya/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gangavarapu-ramya/" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/www.hackerrank.com/ramya_g2155" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="www.hackerrank.com/ramya_g2155" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/leetcode.com/g_ramya/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/g_ramya/" height="30" width="40" />
+  </a>
 </p>
 
 ## <h3 align="left">Languages and Tools:</h3>
