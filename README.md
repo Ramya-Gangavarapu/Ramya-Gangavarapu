@@ -31,13 +31,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramya-gangavarapu&" alt="ramya-gangavarapu" /></p>
 
-# Feel the thrill of coding, and may your algorithms always run like 🚀 through the digital cosmos!
 
-## Keep shining bright in the world of bits and bytes. 🌟
+<h2 align="center">Feel the thrill of coding, and may your algorithms always run like 🚀 through the digital cosmos!</h2>
 
-**Happy coding,**
+<h2 align="center">Keep shining bright in the world of bits and bytes. 🌟</h2>
 
-**Gangavarapu Ramya 🌼**
+<h2 align="center">Happy coding,</h2>
 
-
-
+<h2 align="center">Gangavarapu Ramya 🌼</h2>
