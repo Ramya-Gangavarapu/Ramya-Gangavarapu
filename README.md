@@ -52,4 +52,3 @@
 
 <h2 align="center">Happy coding :smile:</h2>
 
-<h2 align="center">Gangavarapu Ramya 🌼</h2>
