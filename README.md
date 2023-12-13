@@ -3,7 +3,7 @@
 
 #  <h1 align="center">👋 Hey there, I'm Gangavarapu Ramya. Explorer of code galaxies! Welcome to my GitHub universe!</h1>
 
-## <h3 align="center">I'm a passionate Full Stack Developer from India</h3>
+## <h3 align="center">I'm a passionate MERN Full Stack Developer from India</h3>
 
 <img align="center" alt="coding" width="1020" src="https://j4i2w7h7.stackpathcdn.com/wp-content/uploads/2017/04/Neon-Waseland-Game-Download.gif">
 
