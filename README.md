@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramya-gangavarapu&label=Profile%20views&color=0e75b6&style=flat" alt="ramya-gangavarapu" /> </p>
 
-## - 🌱 I’m currently exploring to: **Full Stack Development :computer:**
+## - 🌱 I’m currently exploring to: **MERN Full Stack Development :computer:**
 
 ## - 📫 You can reach out to me at: **gangavarapuramya15@gmail.com**
 
