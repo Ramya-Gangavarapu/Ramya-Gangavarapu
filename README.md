@@ -70,4 +70,4 @@
 
 <h2 align="center">Happy coding :smile:</h2>
 
-![Snake animation](https://github.com/{{Ramya-Gangavarapu}}/{{Ramya-Gangavarapu}}/blob/output/github-contribution-grid-snake.svg)
+
