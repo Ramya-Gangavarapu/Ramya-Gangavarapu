@@ -22,8 +22,6 @@
 
 ## - ⚡ Did you know? **I possess the magical ability to make elements dance, fly, and even disappear with just a few lines of CSS wizardry✨**
 
-## - 📄 Curious about my trajectory through the code cosmos? Peek into my experiences via [https://drive.google.com/file/d/1SvGuDyrW5K0ToQzGi05UIuK04VeS91XS/view?usp=drive_link](https://drive.google.com/file/d/1SvGuDyrW5K0ToQzGi05UIuK04VeS91XS/view?usp=drive_link)
-
 ## - ⚡ Fun fact **I possess a gravitational pull towards humor; some might even say I'm funny!**
 
 ## <h3 align="left">Feel free to connect with me through the constellations of social platforms. Let's share ideas, solve puzzles, and learn from each other's code journeys</h3>
