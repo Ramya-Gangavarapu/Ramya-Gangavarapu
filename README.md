@@ -18,7 +18,7 @@
 
 ## - 💬 Ask me about **React, NodeJs, or Databases? I've got you covered!**
 
-## 📫 Dive into my orbit via **gangavarapuramya15@gmail.com**
+## - 📫 Dive into my orbit via **gangavarapuramya15@gmail.com**
 
 ## - ⚡ Did you know? **I possess the magical ability to make elements dance, fly, and even disappear with just a few lines of CSS wizardry✨**
 
