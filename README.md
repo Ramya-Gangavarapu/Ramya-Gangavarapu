@@ -1,5 +1,5 @@
 
-![logo](https://github.com/Ramya-Gangavarapu/Ramya-Gangavarapu/blob/main/Image.jpg)
+
 
 #  <h1 align="center">👋 Hey there, I'm Gangavarapu Ramya. Explorer of code galaxies! Welcome to my GitHub universe!</h1>
 
